@@ -2,4 +2,10 @@ para iniciar o prejeto
 
 # npx create-react-app <nome>
 
-podemos iniciar com npm start;
+ou 
+
+# npm create vite@latest
+
+podemos iniciar com 
+
+#npm start;
